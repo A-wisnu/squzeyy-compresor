@@ -1,146 +1,147 @@
-# 🚀 File Compression App
+# 🚀 Aplikasi Kompresi File
 
 <div align="center">
-  <img src="https://i.imgur.com/KvD47HD.gif" alt="File Compression Animation" width="700"/>
+  <img src="https://i.pinimg.com/originals/0c/8a/d9/0c8ad91e1c3bce47d4113c9bba63c57f.gif" alt="Animasi Kompresi File" width="700"/>
 </div>
 
-## ✨ Features
+## ✨ Fitur-Fitur
 
 <div align="center">
-  <img src="https://i.imgur.com/JGfVOpn.gif" alt="Features Animation" width="600"/>
+  <img src="https://i.pinimg.com/originals/e3/20/c1/e320c15d441957a2331d519f8c802120.gif" alt="Animasi Fitur" width="600"/>
 </div>
 
-- **💾 Multiple File Type Support**
-  - PDF documents (optimized compression)
-  - Images (JPG, PNG, WebP, BMP, GIF)
-  - Word documents (DOCX, DOC)
-  - Other file types with standard compression
+- **💾 Dukungan Berbagai Jenis File**
+  - Dokumen PDF (kompresi teroptimasi)
+  - Gambar (JPG, PNG, WebP, BMP, GIF)
+  - Dokumen Word (DOCX, DOC)
+  - Jenis file lainnya dengan kompresi standar
 
-- **⚡ Intelligent Compression**
-  - Adaptive compression based on file type
-  - Resizes large images while maintaining quality
-  - PDF optimization with metadata stripping
-  - Only applies compression when it actually reduces file size
+- **⚡ Kompresi Cerdas**
+  - Kompresi adaptif berdasarkan jenis file
+  - Mengubah ukuran gambar besar dengan tetap menjaga kualitas
+  - Optimasi PDF dengan menghapus metadata
+  - Hanya menerapkan kompresi ketika benar-benar mengurangi ukuran file
 
-- **🔄 Real-time Progress Tracking**
-  - Visual upload progress indicators
-  - Detailed compression results
-  - File-by-file statistics
+- **🔄 Pelacakan Progres Secara Real-time**
+  - Indikator progres unggah visual
+  - Hasil kompresi terperinci
+  - Statistik file-per-file
 
-- **💻 Modern User Interface**
-  - Drag and drop file uploads
-  - Responsive design for all devices
-  - Animated elements for better user experience
+- **💻 Antarmuka Pengguna Modern**
+  - Unggah file dengan drag and drop
+  - Desain responsif untuk semua perangkat
+  - Elemen animasi untuk pengalaman pengguna yang lebih baik
 
-## 🛠️ Tech Stack
+## 🛠️ Teknologi yang Digunakan
 
 <div align="center">
-  <img src="https://i.imgur.com/mV8Cb5F.gif" alt="Tech Stack Animation" width="650"/>
+  <img src="https://i.pinimg.com/originals/d9/48/79/d948798fecd706c7630a9fae1509400f.gif" alt="Animasi Teknologi" width="650"/>
 </div>
 
 ### Frontend
-- **React** - UI library
-- **JSZip** - Client-side ZIP file handling
-- **Axios** - HTTP requests
-- **React-Dropzone** - File upload functionality
-- **File-Saver** - Download handling
+- **React** - Library UI
+- **JSZip** - Penanganan file ZIP di sisi klien
+- **Axios** - Permintaan HTTP
+- **React-Dropzone** - Fungsionalitas unggah file
+- **File-Saver** - Penanganan unduhan
 
 ### Backend
-- **Flask** - Python web framework
-- **Flask-CORS** - Cross-origin resource sharing
-- **Pillow** - Image processing
-- **PikePDF** - PDF optimization
-- **ZLib** - Compression algorithms
+- **Flask** - Framework web Python
+- **Flask-CORS** - Pembagian sumber daya lintas asal
+- **Pillow** - Pemrosesan gambar
+- **PikePDF** - Optimasi PDF
+- **ZLib** - Algoritma kompresi
 
-## 📊 Compression Methods
+## 📊 Metode Kompresi
 
 <div align="center">
-  <img src="https://i.imgur.com/RkDtJyG.gif" alt="Compression Methods Animation" width="600"/>
+  <img src="https://i.pinimg.com/originals/07/b3/ee/07b3ee098f6e3caa13c424105cfe2293.gif" alt="Animasi Metode Kompresi" width="600"/>
 </div>
 
-### PDF Compression
-- Stream compression
-- Object stream optimization
-- Metadata stripping
-- Content stream compression
+### Kompresi PDF
+- Kompresi aliran data
+- Optimasi aliran objek
+- Penghapusan metadata
+- Kompresi aliran konten
 
-### Image Compression
-- Format conversion (when beneficial)
-- Quality reduction (configurable)
-- Dimension resizing for large images
-- Mode conversion for optimal compression
+### Kompresi Gambar
+- Konversi format (bila bermanfaat)
+- Pengurangan kualitas (dapat dikonfigurasi)
+- Pengubahan ukuran untuk gambar besar
+- Konversi mode untuk kompresi optimal
 
-### Document Compression
-- Custom ZLib compression with max level
-- ZIP recompression for already compressed formats
+### Kompresi Dokumen
+- Kompresi ZLib kustom dengan level maksimum
+- Rekompresi ZIP untuk format yang sudah terkompresi
 
-## 🚀 Getting Started
+## 🚀 Memulai
 
-### Prerequisites
-- Node.js and npm
+### Prasyarat
+- Node.js dan npm
 - Python 3.8+
 
-### Installation
+### Instalasi
 
-#### Frontend Setup
+#### Setup Frontend
 ```bash
-# Navigate to frontend directory
+# Navigasi ke direktori frontend
 cd frontend
 
-# Install dependencies
+# Instal dependensi
 npm install
 
-# Start development server
+# Mulai server pengembangan
 npm start
 ```
 
-#### Backend Setup
+#### Setup Backend
 ```bash
-# Navigate to backend directory
+# Navigasi ke direktori backend
 cd backend
 
-# Create and activate virtual environment (optional but recommended)
+# Buat dan aktifkan virtual environment (opsional tapi direkomendasikan)
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  # Pada Windows: venv\Scripts\activate
 
-# Install dependencies
+# Instal dependensi
 pip install -r requirements.txt
 
-# Start Flask server
+# Mulai server Flask
 python app.py
 ```
 
-## 💡 How It Works
+## 💡 Cara Kerja
 
 <div align="center">
-  <img src="https://i.imgur.com/pXb1gG7.gif" alt="How It Works Animation" width="650"/>
+  <img src="https://i.pinimg.com/originals/0d/ac/06/0dac06a5332d13e2a4e2dc30ba0c6411.gif" alt="Animasi Cara Kerja" width="650"/>
 </div>
 
-1. **Upload Files**: Users select or drag and drop files into the application
-2. **Processing**: Files are sent to the backend server
-3. **Compression**: Each file is compressed using the optimal algorithm for its type
-4. **Results**: Compressed files are bundled into a ZIP archive and sent back
-5. **Analysis**: Users receive detailed compression statistics for each file
-6. **Download**: The compressed ZIP file is automatically downloaded
+1. **Unggah File**: Pengguna memilih atau melakukan drag and drop file ke aplikasi
+2. **Pemrosesan**: File dikirim ke server backend
+3. **Kompresi**: Setiap file dikompresi menggunakan algoritma optimal untuk jenisnya
+4. **Hasil**: File terkompresi digabungkan dalam arsip ZIP dan dikirim kembali
+5. **Analisis**: Pengguna menerima statistik kompresi terperinci untuk setiap file
+6. **Unduh**: File ZIP terkompresi otomatis diunduh
 
-## 🔍 Compression Results
+## 🔍 Hasil Kompresi
 
-The application provides detailed statistics for each compressed file:
-- Original filename
-- Initial file size
-- Compressed file size
-- Compression ratio
-- Space saved
+Aplikasi menyediakan statistik terperinci untuk setiap file terkompresi:
+- Nama file asli
+- Ukuran file awal
+- Ukuran file terkompresi
+- Rasio kompresi
+- Ruang yang dihemat
 
-## 🙏 Acknowledgements
+## 🙏 Ucapan Terima Kasih
 
-- Image compression techniques inspired by modern web optimization practices
-- PDF compression methodology based on the PikePDF library documentation
-- UI animations designed with performance and user experience in mind
+- Teknik kompresi gambar terinspirasi dari praktik optimasi web modern
+- Metodologi kompresi PDF berdasarkan dokumentasi library PikePDF
+- Animasi UI dirancang dengan mempertimbangkan kinerja dan pengalaman pengguna
 
 ---
 
 <div align="center">
-  <h3>Made with ❤️ for data compression efficiency</h3>
-  <p>© 2025 File Compression App</p>
-</div> 
+  <img src="https://i.pinimg.com/originals/f6/c1/36/f6c1360c51af80c737307cad74dfc40e.gif" alt="Animasi Footer" width="400"/>
+  <h3>Dikembangkan oleh Tim Squzeyy Compressor</h3>
+  <p>© 2025 Squzeyy Compressor - Solusi Kompresi File Profesional</p>
+</div>
